@@ -1,0 +1,7 @@
+                        **Linux Commands**
+-->File Management
+1.cp-> This command is use to copy the file, <source> <destination>
+2.mv-> This command is used to cut and copy file, <source> <destination>
+3.rm -> This command is used to remove files
+4.rm-d -> This command is used to remove the directory.
+5.rm-rf -> This command remove forcefully everything
