@@ -1,0 +1,11 @@
+                 -->Here we Know About Linux and Github Commands<-
+    **Git Commands
+1. git init-> It is used to initialized the git 
+2. git add *File_Name*
+3. git commit -m "Text_message" -> This command is used to take snapchat or cit  the code on local repository.
+ 
+    **Git command to add Local machine with remote repo
+1. git remote add origin <remote repo URL>
+2. git branch origin master
+3. git push -u origin master ->This command is used to push code to remote repo
+                                from local machine
